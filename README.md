@@ -12,7 +12,7 @@
 * Clone this repository
 
 ```
-git clone https://github.com/abdulkadir19997/run_LLAMA_locally.git
+git clone https://github.com/Abdulkadir19997/run_LLAMA_locally.git
 ```
 
 ```
